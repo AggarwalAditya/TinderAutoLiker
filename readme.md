@@ -6,7 +6,7 @@ This is mainly for people who belive in "swipe right for all" technique to incre
 To make this piece of code to run you'll have to:
 ```
 pip install pyuserinput
-python scipt.py
+python script.py
 
 ```
 
